@@ -6,6 +6,7 @@ This privacy policy applies to the Decision Maker - Quick Decisions app (hereby 
 
 The Application collects information when you download and use it. This information may include information such as
 
+*   Your device's Advertising ID (e.g. Ads ID, this information is collected by a 3rd party library called Admob)
 *   Your device's Internet Protocol address (e.g. IP address)
 *   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
 *   The time spent on the Application
